@@ -1,0 +1,64 @@
+
+  Progan - Version GratuitaXX
+  
+  Ficha Animal
+  
+  
+  
+  
+  Codigo Numerico : MD              Codigo Alfabetico : MADRE DESC.                
+  Clasificacion [Vacia]                                                            
+  ---------------------------------------------------------------------------------
+                                                                                   
+   Sexo [Hembra] ( Adquirido, No Nacido en Finca )                                 
+   Fecha Nacimiento [01/01/1980]                                                   
+   Cod. Madre [             ]    Padre [             ]                             
+   Potrero [ FICT ], Lote [  ], Grupo [  ] Raza []                                 
+   Peso Compra : 0.0         Precio Compra (Bs.) : 0.0                             
+   Marcas Aplicadas :  Tatuada [   ],  Herrada [   ], Descorne [   ]               
+                                                                                   
+  Comentarios Animal                                                               
+  -------------------------------------------------------------------------------- 
+  -------------------------------------------------------------------------------- 
+                                                                                   
+                                                                                   
+  Salud Animal (Sano)                                                              
+  -------------------------------------------------------------------------------- 
+  -------------------------------------------------------------------------------- 
+                                                                                   
+                                                                                   
+  CONDICION : Fuera de produccion  Fecha salida produccion : Nunca Produjo         
+                                                                                   
+  --- Servicios registrados ---                                                    
+                                                                                   
+   Nro. Fecha      Tipo Servicio   Efectivo   Toro/Pajuela    Inseminador          
+                                                                                   
+   1    05/10/2026   Inseminacion    No         0001                               
+                                                                                   
+  --- Palpaciones registradas ---                                                  
+                                                                                   
+   Nro. Fecha      Comentario                        Dias Preñez                   
+                                                                                   
+                                                                                   
+  --- Partos registrados ---                                                       
+                                                                                   
+   Nro.  Fecha       Mac.   Hemb.   Mto.   Comentario Parto                        
+                                                                                   
+                                                                                   
+  --- Vacunas  Aplicadas ---                                                       
+                                                                                   
+   Nro.  Fecha        Codigo            Dosis                                      
+         Aplicacion   Trat./Vacuna      Aplicada                                   
+                                                                                   
+                                                                                   
+  --- Pesos Registrado ---                                                         
+                                                                                   
+   Nro.   Fecha          Peso      Comentario                                      
+                                                                                   
+   1      02/02/1980       0.0      Peso Compra                                    
+  ---------------------------------------------------------------------------------
+  
+  
+  
+
+  Progan Ver.14 - www.progansoftware.com

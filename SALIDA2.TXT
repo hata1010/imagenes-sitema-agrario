@@ -1,0 +1,18 @@
+
+  Progan - Version GratuitaXX
+  
+  Relacion animales reubicados
+  
+  
+  Nueva Ubicacion Potrero : POT-MODELO,   Grupo : L1,   Lote : No Cambia
+  
+  Codigo        Nombre          Sexo   Fecha      Ubicacion Ant                             
+  Animal        Animal                 Nacimiento potrero       grupo         lote          
+  ------------------------------------------------------------------------------------------
+  000222                        H      02/10/2026 POT-MODELO    G1            L1            
+  ------------------------------------------------------------------------------------------
+  
+  Total animales reubicados : 1
+  
+
+  Progan Ver.14 - www.progansoftware.com
